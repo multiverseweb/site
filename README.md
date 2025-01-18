@@ -21,6 +21,7 @@ The repository is organized as follows:
 
 ```
 📁 
+├─ LICENSE
 ├─ README.md
 └─ blotic_web
    ├─ images
@@ -69,6 +70,7 @@ The repository is organized as follows:
       ├─ style.css
       └─ virtual_matrix_style.css
 ```
+
 ## License
 
 This project is licensed under the MIT License.
