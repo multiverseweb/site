@@ -4,6 +4,22 @@ The official website for **Blotic**, an innovative club dedicated to spreading a
 
 The website is developed and maintained by the **`Developer Relations` domain** of Team Blotic.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Blotic-BVUCOEP2%2site%20&countColor=%23263759&style=flat&initial=10)
+  ![License](https://img.shields.io/badge/License-MIT-4e3eb5)
+  ![Languages](https://img.shields.io/github/languages/count/Blotic-BVUCOEP/site?color=20B2AA)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Blotic-BVUCOEP/site)
+  ![GitHub contributors](https://img.shields.io/github/contributors/Blotic-BVUCOEP/site)
+  ![GitHub issues](https://img.shields.io/github/issues/Blotic-BVUCOEP/site)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Blotic-BVUCOEP/site)
+  ![GitHub forks](https://img.shields.io/github/forks/Blotic-BVUCOEP/site)
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/Blotic-BVUCOEP/site)
+  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Blotic-BVUCOEP/site)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Blotic-BVUCOEP/site)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Blotic-BVUCOEP/site)
+  ![GitHub total lines](https://sloc.xyz/github/Blotic-BVUCOEP/site)
+  <a href="https://bloticbvpcoe.netlify.app/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fbloticbvpcoe.netlify.app/%2F&up_message=awake&up_color=%2300d18f&down_message=asleep&down_color=red&style=flat">
+</a>
+
 ---
 
 ## Versions
